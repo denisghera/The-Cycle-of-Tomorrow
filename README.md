@@ -1,0 +1,3 @@
+# The-Cycle-of-Tomorrow
+Project at NerdPitch Hackathon
+The Cycle of Tomorrow este un joc Sci-Fi tip low poly care ne arata aventura unei drone trimisa pe o planeta straina cu scopul de a colecta cristalele pierdute ca apoi ele sa fie trimise pe nava-mama. Ceea ce nu stie drona noastra este ca aceasta planeta are un secret. Dronele sunt de fapt facute din aceste cristale magice si pentru a trimite noua drona construita inapoi pe nava-mama, caracterul nostru trebuie sa ramana pe planeta, transformandu-se insusi ea in alte 4 cristale urmand sa fie salvata de catre urmatoarea, creandu-se un ciclu permanent.
